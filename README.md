@@ -27,7 +27,7 @@
         <a href="https://www.psuti.ru/">
             <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Main-psuti-logo.png">
         </a>
-        <b> Student majoring informatics and computer science in</b>
+        <b> Student majoring informatics and computer science</b>
     </div>
 
 ###
