@@ -20,7 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0tdaysalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
 ####
@@ -29,15 +28,16 @@
 ###
 
 **[OpenSpace](https://openspace.team) developer**
+
 <div>
-        <a href="https://www.psuti.ru/">
-            <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Main-psuti-logo.png">
-        </a>
-        <b> student majoring informatics and computer science</b>
-    </div>
+  <a href="https://www.psuti.ru/">
+    <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Main-psuti-logo.png">
+  </a>
+  <b> student majoring informatics and computer science</b>
+</div>
 
 ###
 
 <div>
-  <img src="https://profile-counter.glitch.me/0tdaysalo/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/0tdaysalo/count.svg?=1337"  />
 </div>
