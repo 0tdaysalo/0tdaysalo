@@ -27,7 +27,7 @@
 
 ###
 
-**[OpenSpace](https://openspace.team) developer**
+**[OpenSpace](https://openspace.team) founder + developer**
 
 <div>
   <a href="https://www.psuti.ru/">
