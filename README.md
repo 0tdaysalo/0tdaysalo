@@ -34,13 +34,9 @@
   <b> student majoring informatics and computer science</b>
 </div>
 
-###
+####
 
-**[OpenSpace](https://openspace.team) founder + developer**
-
-###
-
-**[Codefy](https://github.com/aElDi/codefy) contributor**
+**[OpenSpace](https://openspace.team), [Codefy](https://github.com/aElDi/codefy)  founder + developer**
 
 ###
 
