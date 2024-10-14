@@ -27,14 +27,20 @@
 
 ###
 
-**[OpenSpace](https://openspace.team) founder + developer**
-
 <div>
   <a href="https://www.psuti.ru/">
     <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Main-psuti-logo.png">
   </a>
   <b> student majoring informatics and computer science</b>
 </div>
+
+###
+
+**[OpenSpace](https://openspace.team) founder + developer**
+
+###
+
+**[Codefy](https://github.com/aElDi/codefy) contributor**
 
 ###
 
