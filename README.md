@@ -1,4 +1,8 @@
+
+<h2 align="left">I'm using:</h1>
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
@@ -14,20 +18,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0tdaysalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
-</div>
 
-<div>
-  <img src="https://streak-stats.demolab.com?user=0tdaysalo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="142.54" alt="streak graph"  />
-</div>
+<h2 align="left">About me:</h1>
 
 ###
 
-####
-**Love web & C#**
+
 
 ###
 
@@ -42,8 +39,16 @@
 
 **[OpenSpace](https://openspace.team), [Codefy](https://github.com/aElDi/codefy)  founder + developer**
 
+####
+**Love web & C#**
+
+##
 ###
 
 <div>
-  <img src="https://profile-counter.glitch.me/0tdaysalo/count.svg?=1337"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0tdaysalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
+</div>
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=0tdaysalo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="142.54" alt="streak graph"  />
 </div>
